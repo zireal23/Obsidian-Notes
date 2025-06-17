@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "6d2e29cd55236d27",
+    "type": "split",
+    "children": [
+      {
+        "id": "01d8acba6602382c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b065ac2b40f41579",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03abd934f4cb8200",
+    "type": "split",
+    "children": [
+      {
+        "id": "34cb311faf16e920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47b6f2d64d060322",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "02a4b5c0de425080",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "404c892258229450",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8b7098217ac932b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dd76140823ea10a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Speculative trading with Swing Swaps.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Speculative trading with Swing Swaps.md"
+            }
+          },
+          {
+            "id": "9f797831b534e1d2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 575.5
+  },
+  "right": {
+    "id": "b6ea214db12e0152",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e9f93674bc9a46c",
+        "type": "tabs",
+        "dimension": 75.59109874826147,
+        "children": [
+          {
+            "id": "2a1f899bcb400bf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ca61ae58c56105c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "72cfd2b0d2226f72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "616298abcf76fb3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "InvestmentBankingVault/Commodities Trading/Concepts/How is a price differential(Basis) calculated.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of How is a price differential(Basis) calculated.md"
+            }
+          },
+          {
+            "id": "04613aa97e9052f2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "f055c5b3aeb7b324",
+        "type": "tabs",
+        "dimension": 24.408901251738527,
+        "children": [
+          {
+            "id": "50a3338d3cb439ad",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 756.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b065ac2b40f41579",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging Triggers/Hedging Triggers with Physical Index Gas.md",
+    "Untitled.md",
+    "~syncthing~Untitled.md.tmp",
+    "Images",
+    "Untitled",
+    "Images/Pasted image 20250613105702.png",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging Triggers/Hedging Triggers with EFP.md",
+    "Images/Pasted image 20250612110754.png",
+    "InvestmentBankingVault/Derivatives/Triggers.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging Triggers",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Converting EFP to Fixed-Float Index Swap.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Converting EFP to Futures Swap.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals",
+    "Images/Pasted image 20250611135127.png",
+    "Images/Pasted image 20250611135108.png",
+    "Images/Pasted image 20250611135037.png",
+    "Images/Pasted image 20250611134850.png",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Comparison between different instruments converted from an EFP.md",
+    "Images/Pasted image 20250611134816.png",
+    "Images/Pasted image 20250611134736.png",
+    "Images/Pasted image 20250611134718.png",
+    "Images/Pasted image 20250611134640.png",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Converting EFP to Basis Swaps.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Converting EFP to Fixed-Priced Physical Gas.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Converting EFP to Index-Priced physical gas.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Exchange futures for physical- Key points.md",
+    "InvestmentBankingVault/Derivatives/Exchange of futures for physical gas.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Speculative trading with Swing Swaps.md.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Swing vs Vanilla Fixed float swaps.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging with Swing swaps.md",
+    "InvestmentBankingVault/Commodities Trading/LearningPlan.md.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies",
+    "InvestmentBankingVault/Derivatives/Basis Swaps.md.md",
+    "InvestmentBankingVault/Derivatives/Swing Swaps.md.md",
+    "InvestmentBankingVault/Pricing and Valuation/Backwardation vs Contango.md.md",
+    "InvestmentBankingVault/Pricing and Valuation/Oil Futures.md.md",
+    "InvestmentBankingVault/Pricing and Valuation/Futures Price vs Spot Price.md.md",
+    "InvestmentBankingVault/Pricing and Valuation/Oil Futures Pricing.md.md",
+    "InvestmentBankingVault/Pricing and Valuation/No-Arbitrage.md.md",
+    "InvestmentBankingVault/Commodities Trading/Concepts/Forward Curves and Settlement Prices.md.md",
+    "InvestmentBankingVault/Commodities Trading/Concepts/Market Participants.md.md",
+    "InvestmentBankingVault/Pricing and Valuation/Books/Commodity Options Pricing",
+    "InvestmentBankingVault/Pricing and Valuation/Books",
+    "DataStructuresAndAlgorithms/TODO",
+    "DataStructuresAndAlgorithms/Graph Theory/Problems/ShortestPaths"
+  ]
+}

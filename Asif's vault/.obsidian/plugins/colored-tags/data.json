@@ -1,0 +1,30 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "commodities": 1,
+    "natural_gas": 2,
+    "swing_swaps": 3,
+    "futures": 4,
+    "spread_trading": 5,
+    "convergence": 6,
+    "trading_strategies": 7,
+    "NaturalGasTrading": 8,
+    "Hedging": 9,
+    "SwingSwap": 10,
+    "PhysicalMarket": 11,
+    "BaseloadContract": 12,
+    "RiskManagement": 13,
+    "MarketDynamics": 14,
+    "TradingStrategy": 15
+  },
+  "_version": 3
+}
