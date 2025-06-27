@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "01d8acba6602382c",
+        "id": "bf0b38487c3fb148",
         "type": "tabs",
         "children": [
           {
-            "id": "b065ac2b40f41579",
+            "id": "91233bbf8298fd84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Asif's vault/.obsidian/workspace-mobile.json",
+                "bFile": "Asif's vault/.obsidian/workspace-mobile.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace-mobile.json"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8b7098217ac932b2",
@@ -225,22 +228,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b065ac2b40f41579",
+  "active": "91233bbf8298fd84",
   "lastOpenFiles": [
+    "InvestmentBankingVault/Book-Vault/WBJEE-2025 Mathematics, Phy & Chem Q+Sol (Dt 27-04-25)_0.pdf",
+    "InvestmentBankingVault/Book-Vault/Iris Marie Mack PhD EMBA - Energy Trading and Risk Management_ A Practical Approach to Hedging, Trading and Portfolio Diversification (2014, Wiley) - libgen.li.pdf",
+    "InvestmentBankingVault/Book-Vault/Saeid Mokhatab, William A. Poe, John Y. Mak - Handbook of Natural Gas Transmission and Processing_ Principles and Practices (2015, Gulf Professional Publishing) - libgen.li.pdf",
+    "InvestmentBankingVault/Book-Vault/white-nights-fiodor-dostoievski.pdf",
+    "InvestmentBankingVault/Book-Vault/Trading Commodities and Financial Futures - A Step-by-Step Guide to Mastering the Markets.pdf",
+    "InvestmentBankingVault/Book-Vault/The.New.Commodity.Trading.Guide.pdf",
+    "InvestmentBankingVault/Book-Vault/(The Wiley Finance Series) Iain J. Clark - Commodity Option Pricing_ A Practitioner's Guide-Wiley (2014).pdf",
+    "InvestmentBankingVault/Book-Vault/(The Wiley Finance Series) Iain J. Clark - Commodity Option Pricing_ A Practitioner's Guide-Wiley (2014)-45-125.pdf",
+    "InvestmentBankingVault/Book-Vault/C++ Design Patterns Derivatives Pricing.pdf",
+    "InvestmentBankingVault/Book-Vault/WPM17-TheTermStructureofOilFuturesPrices-JGabillon-1991.pdf",
+    "InvestmentBankingVault/Book-Vault/FULLTEXT01.pdf",
     "Untitled.canvas",
     "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging Triggers/Hedging Triggers with Physical Index Gas.md",
     "Untitled.md",
-    "~syncthing~Untitled.md.tmp",
-    "Images",
-    "Untitled",
     "Images/Pasted image 20250613105702.png",
     "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging Triggers/Hedging Triggers with EFP.md",
     "Images/Pasted image 20250612110754.png",
     "InvestmentBankingVault/Derivatives/Triggers.md",
-    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging Triggers",
     "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Converting EFP to Fixed-Float Index Swap.md",
     "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Converting EFP to Futures Swap.md",
-    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals",
     "Images/Pasted image 20250611135127.png",
     "Images/Pasted image 20250611135108.png",
     "Images/Pasted image 20250611135037.png",
@@ -259,7 +268,6 @@
     "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Swing vs Vanilla Fixed float swaps.md",
     "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging with Swing swaps.md",
     "InvestmentBankingVault/Commodities Trading/LearningPlan.md.md",
-    "InvestmentBankingVault/Derivatives/Derivative-Case Studies",
     "InvestmentBankingVault/Derivatives/Basis Swaps.md.md",
     "InvestmentBankingVault/Derivatives/Swing Swaps.md.md",
     "InvestmentBankingVault/Pricing and Valuation/Backwardation vs Contango.md.md",
@@ -268,10 +276,6 @@
     "InvestmentBankingVault/Pricing and Valuation/Oil Futures Pricing.md.md",
     "InvestmentBankingVault/Pricing and Valuation/No-Arbitrage.md.md",
     "InvestmentBankingVault/Commodities Trading/Concepts/Forward Curves and Settlement Prices.md.md",
-    "InvestmentBankingVault/Commodities Trading/Concepts/Market Participants.md.md",
-    "InvestmentBankingVault/Pricing and Valuation/Books/Commodity Options Pricing",
-    "InvestmentBankingVault/Pricing and Valuation/Books",
-    "DataStructuresAndAlgorithms/TODO",
-    "DataStructuresAndAlgorithms/Graph Theory/Problems/ShortestPaths"
+    "InvestmentBankingVault/Commodities Trading/Concepts/Market Participants.md.md"
   ]
 }
