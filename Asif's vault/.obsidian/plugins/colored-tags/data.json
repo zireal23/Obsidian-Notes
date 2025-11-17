@@ -24,7 +24,9 @@
     "BaseloadContract": 12,
     "RiskManagement": 13,
     "MarketDynamics": 14,
-    "TradingStrategy": 15
+    "TradingStrategy": 15,
+    "gift": 16,
+    "urgent": 17
   },
   "_version": 3
 }

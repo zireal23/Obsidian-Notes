@@ -50,13 +50,13 @@ A trading desk sells forwards anticipating a drop in commodity prices.
 - `tran_sub_type`: `Fixed Price`, `Floating`, `Index-based`
 
 ### 📑 Key Fields
-| Field                 | Description                         |
-|----------------------|-------------------------------------|
-| Start Date / End Date| Delivery period                     |
-| Price                | Agreed forward price                |
-| Quantity             | Total volume or delivery profile    |
-| Settlement Method    | Physical or Cash                    |
-| Delivery Location    | Pipeline, hub, terminal, etc.       |
+| Field                 | Description                      |
+| --------------------- | -------------------------------- |
+| Start Date / End Date | Delivery period                  |
+| Price                 | Agreed forward price             |
+| Quantity              | Total volume or delivery profile |
+| Settlement Method     | Physical or Cash                 |
+| Delivery Location     | Pipeline, hub, terminal, etc.    |
 
 ### ⚙️ Additional Configuration
 - **Index-linked forwards** use internal or market curves.

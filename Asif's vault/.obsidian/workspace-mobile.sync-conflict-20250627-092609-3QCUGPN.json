@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "e4bb3c744e5c24ef",
+            "id": "6ad07f416ace11b7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -157,19 +157,9 @@
           "icon": "lucide-file",
           "title": "Plugin no longer active"
         }
-      },
-      {
-        "id": "da27bf07c07be4dd",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,12 +174,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e4bb3c744e5c24ef",
+  "active": "6ad07f416ace11b7",
   "lastOpenFiles": [
-    "InvestmentBankingVault/Derivatives/Options for Producers and Sellers.md",
-    "InvestmentBankingVault/Derivatives/Basis Swaps.md.md",
-    "InvestmentBankingVault/Book-Vault/Trading Commodities and Financial Futures - A Step-by-Step Guide to Mastering the Markets.pdf",
+    "InvestmentBankingVault/Book-Vault/(The Wiley Finance Series) Iain J. Clark - Commodity Option Pricing_ A Practitioner's Guide-Wiley (2014).pdf",
     "InvestmentBankingVault/Derivatives/Exchange of futures for physical gas.md",
+    "InvestmentBankingVault/Derivatives/Basis Swaps.md.md",
     "Untitled.md",
     "InvestmentBankingVault/Derivatives/Swing Swaps.md.md",
     "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging Triggers/Hedging Triggers with Physical Index Gas.md",
