@@ -46,7 +46,7 @@ The correctness of the greedy MST algorithm is based on the [[Cut Property]].
 
 ### Simplifying Assumptions
 - **Distinct Edge Weights:** Ensures the MST is unique.
-- **Connected Graph:** Otherwise, algorithm computes a **minimum spanning forest**.
+- **Connected Graph:** Otherwise, algorithm computes a **minimum spanning forest**./====
 
 ### Non-Distinct Weights
 - MST might not be unique.

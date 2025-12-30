@@ -4,31 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "a83eb9f95b3efae9",
+        "id": "797ddde572db605e",
         "type": "tabs",
         "children": [
           {
-            "id": "03be75ba2e0f38ee",
+            "id": "04610272e38ed9de",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "InvestmentBankingVault/Book-Vault/Option-Volatility-and-Pricing_-Advanced-Trading-Strategies-and-Techniques-PDFDrive-.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Option-Volatility-and-Pricing_-Advanced-Trading-Strategies-and-Techniques-PDFDrive-"
+            }
+          },
+          {
+            "id": "2eaa9e092235972a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InvestmentBankingVault/Derivatives/Basis Swaps.md.md",
+                "file": "DataStructuresAndAlgorithms/Graph Theory/Minimum Spanning Trees/Minimum Spanning Tree.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basis Swaps.md"
-            }
-          },
-          {
-            "id": "e4bb3c744e5c24ef",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Minimum Spanning Tree.md"
             }
           }
         ],
@@ -173,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -184,15 +187,29 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e4bb3c744e5c24ef",
+  "active": "2eaa9e092235972a",
   "lastOpenFiles": [
-    "InvestmentBankingVault/Derivatives/Options for Producers and Sellers.md",
+    "DataStructuresAndAlgorithms/Graph Theory/Minimum Spanning Trees/Greedy Algorithm MST.md",
+    "InvestmentBankingVault/Endur and systems/Forward_deal_type.md.md",
+    "InvestmentBankingVault/Commodities Trading/LearningPlan.md.md",
+    "InvestmentBankingVault/Book-Vault/Gas Trading Manual_ A comprehensive guide to the gas markets.pdf",
+    "InvestmentBankingVault/Book-Vault/Oil Trading Manual_ A comprehensive guide to the oil markets - PDF Room.pdf",
+    "InvestmentBankingVault/Book-Vault/Option-Volatility-and-Pricing_-Advanced-Trading-Strategies-and-Techniques-PDFDrive-.pdf",
+    "InvestmentBankingVault/Book-Vault/[PennWell nontechnical series] Fletcher J. Sturm - Trading Natural Gas_ Cash, Futures, Options and Swaps (1997, PennWell Books) - libgen.li-78-93.pdf",
+    "Untitled 1.md",
+    "System Design",
+    "InvestmentBankingVault/Book-Vault/Iris Marie Mack PhD EMBA - Energy Trading and Risk Management_ A Practical Approach to Hedging, Trading and Portfolio Diversification (2014, Wiley) - libgen.li.pdf",
+    "InvestmentBankingVault/Book-Vault/Hull-Options,Futures and Other derivatives.pdf",
+    "InvestmentBankingVault/Book-Vault/Energy_Trading_and_Investing.pdf",
+    "InvestmentBankingVault/Book-Vault/(The Wiley Finance Series) Iain J. Clark - Commodity Option Pricing_ A Practitioner's Guide-Wiley (2014).pdf",
+    "InvestmentBankingVault/Derivatives/Exchange of futures for physical gas.md",
     "InvestmentBankingVault/Derivatives/Basis Swaps.md.md",
     "InvestmentBankingVault/Book-Vault/Trading Commodities and Financial Futures - A Step-by-Step Guide to Mastering the Markets.pdf",
-    "InvestmentBankingVault/Derivatives/Exchange of futures for physical gas.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Comparison between different instruments converted from an EFP.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Exchange futures for physical- Key points.md",
+    "InvestmentBankingVault/Derivatives/Options for Producers and Sellers.md",
     "Untitled.md",
     "InvestmentBankingVault/Derivatives/Swing Swaps.md.md",
-    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging Triggers/Hedging Triggers with Physical Index Gas.md",
-    "Images"
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging Triggers/Hedging Triggers with Physical Index Gas.md"
   ]
 }
