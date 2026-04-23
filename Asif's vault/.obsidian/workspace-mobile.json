@@ -4,33 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "797ddde572db605e",
+        "id": "77a0413437fe2c94",
         "type": "tabs",
         "children": [
           {
-            "id": "04610272e38ed9de",
+            "id": "5b7586d7fbaf854c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "InvestmentBankingVault/Book-Vault/Option-Volatility-and-Pricing_-Advanced-Trading-Strategies-and-Techniques-PDFDrive-.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Option-Volatility-and-Pricing_-Advanced-Trading-Strategies-and-Techniques-PDFDrive-"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "2eaa9e092235972a",
+            "id": "9d30f2a19adfbeef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataStructuresAndAlgorithms/Graph Theory/Minimum Spanning Trees/Minimum Spanning Tree.md.md",
+                "file": "InvestmentBankingVault/ERP/Module 1/Interest rates, Sofr, DV01, Discount factors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minimum Spanning Tree.md"
+              "title": "Interest rates, Sofr, DV01, Discount factors"
             }
           }
         ],
@@ -187,29 +185,31 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2eaa9e092235972a",
+  "active": "9d30f2a19adfbeef",
   "lastOpenFiles": [
-    "DataStructuresAndAlgorithms/Graph Theory/Minimum Spanning Trees/Greedy Algorithm MST.md",
-    "InvestmentBankingVault/Endur and systems/Forward_deal_type.md.md",
-    "InvestmentBankingVault/Commodities Trading/LearningPlan.md.md",
-    "InvestmentBankingVault/Book-Vault/Gas Trading Manual_ A comprehensive guide to the gas markets.pdf",
-    "InvestmentBankingVault/Book-Vault/Oil Trading Manual_ A comprehensive guide to the oil markets - PDF Room.pdf",
-    "InvestmentBankingVault/Book-Vault/Option-Volatility-and-Pricing_-Advanced-Trading-Strategies-and-Techniques-PDFDrive-.pdf",
-    "InvestmentBankingVault/Book-Vault/[PennWell nontechnical series] Fletcher J. Sturm - Trading Natural Gas_ Cash, Futures, Options and Swaps (1997, PennWell Books) - libgen.li-78-93.pdf",
-    "Untitled 1.md",
-    "System Design",
-    "InvestmentBankingVault/Book-Vault/Iris Marie Mack PhD EMBA - Energy Trading and Risk Management_ A Practical Approach to Hedging, Trading and Portfolio Diversification (2014, Wiley) - libgen.li.pdf",
-    "InvestmentBankingVault/Book-Vault/Hull-Options,Futures and Other derivatives.pdf",
-    "InvestmentBankingVault/Book-Vault/Energy_Trading_and_Investing.pdf",
-    "InvestmentBankingVault/Book-Vault/(The Wiley Finance Series) Iain J. Clark - Commodity Option Pricing_ A Practitioner's Guide-Wiley (2014).pdf",
-    "InvestmentBankingVault/Derivatives/Exchange of futures for physical gas.md",
-    "InvestmentBankingVault/Derivatives/Basis Swaps.md.md",
-    "InvestmentBankingVault/Book-Vault/Trading Commodities and Financial Futures - A Step-by-Step Guide to Mastering the Markets.pdf",
-    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Comparison between different instruments converted from an EFP.md",
+    "InvestmentBankingVault/ERP/Module 1/Normal Backwardation Theory.md",
+    "InvestmentBankingVault/ERP/Module 1/Interest rates, Sofr, DV01, Discount factors.md",
+    "InvestmentBankingVault/ERP/Module 1/Forward Contracts - Pricing and Convergence to Spot.md",
+    "InvestmentBankingVault/Commodities Training/Level 1.md",
+    "InvestmentBankingVault/Pricing and Valuation/Oil Futures Pricing.md.md",
     "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Exchange futures for physical- Key points.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Converting EFP to Index-Priced physical gas.md",
+    "InvestmentBankingVault/Commodities Trading/Concepts/Forward and Futures Contracts.md.md",
+    "InvestmentBankingVault/Commodities Trading/LearningPlan.md.md",
+    "InvestmentBankingVault/Derivatives/Basis Swaps.md.md",
+    "InvestmentBankingVault/Book-Vault/2018_trafigura_commodities_demystified_guide_second_edition_english.pdf",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Speculative trading with Swing Swaps.md.md",
+    "InvestmentBankingVault/Endur and systems/Forward_deal_type.md.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging Triggers/Hedging Triggers with EFP.md",
+    "InvestmentBankingVault/Derivatives/Commodity Futures.md.md",
+    "Untitled.canvas",
+    "Untitled",
     "InvestmentBankingVault/Derivatives/Options for Producers and Sellers.md",
+    "InvestmentBankingVault/Book-Vault/Trading Commodities and Financial Futures - A Step-by-Step Guide to Mastering the Markets.pdf",
+    "InvestmentBankingVault/Derivatives/Exchange of futures for physical gas.md",
     "Untitled.md",
     "InvestmentBankingVault/Derivatives/Swing Swaps.md.md",
-    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging Triggers/Hedging Triggers with Physical Index Gas.md"
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Hedging Triggers/Hedging Triggers with Physical Index Gas.md",
+    "Images"
   ]
 }

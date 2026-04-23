@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InvestmentBankingVault/ERP/Module 1/Basis curves and why they matter.md",
+                "file": "InvestmentBankingVault/ETRM Course/Phase 0/Natural Gas/Curriculum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basis curves and why they matter"
+              "title": "Curriculum"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "34cb311faf16e920",
         "type": "tabs",
+        "dimension": 70.1219512195122,
         "children": [
           {
             "id": "47b6f2d64d060322",
@@ -79,29 +80,33 @@
       {
         "id": "8b7098217ac932b2",
         "type": "tabs",
+        "dimension": 29.878048780487802,
         "children": [
           {
             "id": "3dd76140823ea10a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Speculative trading with Swing Swaps.md.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Speculative trading with Swing Swaps.md"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           },
           {
             "id": "9f797831b534e1d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Exchange futures for physical- Key points.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exchange futures for physical- Key points"
             }
           }
         ],
@@ -126,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System Design/Design Rationale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Design Rationale"
             }
           },
           {
@@ -144,11 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "System Design/Design Rationale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Design Rationale"
             }
           },
           {
@@ -172,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InvestmentBankingVault/Endur and systems/Pricing and Valuations in Endur/Resets and Fixings in Endur.md",
+                "file": "System Design/Design Rationale.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Resets and Fixings in Endur"
+              "title": "Outline of Design Rationale"
             }
           },
           {
@@ -191,8 +198,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "f055c5b3aeb7b324",
@@ -213,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 463.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,52 +238,55 @@
   },
   "active": "52badece93438325",
   "lastOpenFiles": [
-    "InvestmentBankingVault/ERP/Module 1/Cost of Financing.md",
-    "InvestmentBankingVault/ERP/Module 1/Interest rates, Sofr, DV01, Discount factors.md",
+    "InvestmentBankingVault/ETRM Course/Phase 0/Natural Gas/books/energy-primer-2020_Final.pdf",
+    "InvestmentBankingVault/ETRM Course/Phase 0/Natural Gas/books/[PennWell nontechnical series] Fletcher J. Sturm - Trading Natural Gas_ Cash, Futures, Options and Swaps (1997, PennWell Books) - libgen.li.pdf",
+    "InvestmentBankingVault/ETRM Course/Phase 0/Natural Gas/books/Vincent Kaminski - Energy Markets (2013, Risk Books) - libgen.li.pdf",
+    "InvestmentBankingVault/ETRM Course/Phase 0/Natural Gas/books/Gas Trading Manual_ A comprehensive guide to the gas markets.pdf",
+    "InvestmentBankingVault/ETRM Course/Phase 0/Natural Gas/books",
+    "InvestmentBankingVault/ETRM Course/Phase 0/Natural Gas/New folder",
+    "InvestmentBankingVault/Book-Vault/[PennWell nontechnical series] Fletcher J. Sturm - Trading Natural Gas_ Cash, Futures, Options and Swaps (1997, PennWell Books) - libgen.li.pdf",
+    "InvestmentBankingVault/Book-Vault/energy-primer-2020_Final.pdf",
+    "InvestmentBankingVault/ETRM Course/Course Structure.md",
+    "InvestmentBankingVault/ETRM Course/Phase 0/Natural Gas/Curriculum.md",
+    "InvestmentBankingVault/ETRM Course/Phase 0/Natural Gas",
+    "InvestmentBankingVault/ETRM Course/Phase 0",
+    "AI Agentic Workflow/Building a Refactoring agent/Python Based Static Code Analyzer.md",
+    "InvestmentBankingVault/ETRM Course",
+    "System Design/Design Rationale.md",
+    "InvestmentBankingVault/Derivatives/Commodity Futures.md.md",
+    "InvestmentBankingVault/ERP/Module 1/Futures cannot always be used as Proxy for Forwards.md",
+    "InvestmentBankingVault/Commodities Training/Curriculum.md",
+    "InvestmentBankingVault/Commodities Training/Level 3.md",
+    "2025-12-25.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "InvestmentBankingVault/Commodities Training/Level 1.sync-conflict-20260202-114103-ESLV3T7.md",
+    "InvestmentBankingVault/Commodities Training/Level 3.sync-conflict-20260202-114057-ESLV3T7.md",
+    "InvestmentBankingVault/Commodities Training/Level 2.sync-conflict-20260202-114100-ESLV3T7.md",
+    "InvestmentBankingVault/Commodities Training/Level 1.md",
+    "InvestmentBankingVault/Commodities Training/Level 2.md",
+    "InvestmentBankingVault/Commodities Training/Level.md.md",
+    "InvestmentBankingVault/Commodities Training/Level 0.md",
+    "InvestmentBankingVault/ERP/Module 1/Vincent Kaminski Reading order.md",
+    "InvestmentBankingVault/Untitled.md",
+    "InvestmentBankingVault/ERP/Module 1/Books to read for this module.md",
+    "InvestmentBankingVault/ERP/ERP Syllabus and Index.md.md",
+    "System Design/Consumer HLD.md",
+    "System Design/Consumer LLD.md",
+    "HLDMDRevamp.png",
+    "System Design/Consumer Requirements.md",
+    "InvestmentBankingVault/Derivatives/Derivative-Case Studies/Exchange Futures for Physicals/Exchange futures for physical- Key points.md",
+    "InvestmentBankingVault/Derivatives/Exchange of futures for physical gas.md",
+    "Images/Pasted image 20250611132030.png",
     "Pasted image 20251229122847.png",
     "Pasted image 20251229122837.png",
     "Pasted image 20251229122819.png",
-    "InvestmentBankingVault/ERP/Module 1/Curve Backwardation and Contango and Normal Backwardation.md",
-    "InvestmentBankingVault/ERP/Module 1/How Weather Affects Energy Prices.md",
-    "InvestmentBankingVault/ERP/Module 1/Independent Price Validation.md",
-    "InvestmentBankingVault/ERP/Module 1/Markets & Fundamentals.md.md",
     "Pasted image 20251229122703.png",
     "Pasted image 20251229122641.png",
     "Pasted image 20251229122622.png",
-    "InvestmentBankingVault/ERP/Module 1/Basis curves and why they matter.md",
-    "InvestmentBankingVault/ERP/Module 1/Commodity Swaps, fixings and interest rate risks.md",
-    "InvestmentBankingVault/ERP/Module 1/Storage Theory.md",
-    "InvestmentBankingVault/ERP/Module 1/Normal Backwardation Theory.md",
-    "InvestmentBankingVault/ERP/Module 1/Forward vs Spot.md",
-    "InvestmentBankingVault/ERP/Module 1/Futures cannot always be used as Proxy for Forwards.md",
-    "InvestmentBankingVault/ERP/Module 1/Forwards vs Futures.md",
-    "InvestmentBankingVault/ERP/Module 1/Why Bid week doesnt always determine the index price.md",
-    "InvestmentBankingVault/ERP/Module 1/Forward Contracts - Pricing and Convergence to Spot.md",
-    "InvestmentBankingVault/ERP/Module 1/Primer on Weather.md.md",
-    "InvestmentBankingVault/ERP/ERP Syllabus and Index.md.md",
-    "InvestmentBankingVault/ERP/Module 1/Trading around Assets.md.md",
-    "InvestmentBankingVault/ERP/Module 1/Profit By Speculation.md.md",
-    "InvestmentBankingVault/ERP/Module 1/Profit by Market Making.md.md",
-    "InvestmentBankingVault/ERP/Module 1/Organizational Structure.md.md",
-    "InvestmentBankingVault/ERP/Module 1",
-    "InvestmentBankingVault/Book-Vault/C++ Design Patterns Derivatives Pricing.pdf",
-    "System Design/Publisher Semantics.md",
-    "InvestmentBankingVault/Derivatives/Exchange of futures for physical gas.md",
-    "InvestmentBankingVault/ERP",
-    "System Design/Consumer Requirements.md",
-    "System Design/Consumer Semantics.md",
-    "InvestmentBankingVault/Endur and systems/Sim Results/NV By Leg.md.md",
-    "DataStructuresAndAlgorithms/Graph Theory/Minimum Spanning Trees/~syncthing~Minimum Spanning Tree.md.md.tmp",
-    "InvestmentBankingVault/Book-Vault/~syncthing~Oil Trading Manual_ A comprehensive guide to the oil markets - PDF Room.pdf.tmp",
-    "InvestmentBankingVault/Commodities Trading/~syncthing~LearningPlan.md.md.tmp",
-    "~syncthing~Untitled 1.md.tmp",
-    "System Design",
     "Pasted image 20251013211002.png",
     "Pasted image 20251013210957.png",
-    "Projects/Budgeting-App",
-    "Projects",
-    "Untitled.canvas",
-    "Images/Pasted image 20250613105702.png",
-    "Images/Pasted image 20250612110754.png"
+    "Untitled.canvas"
   ]
 }
